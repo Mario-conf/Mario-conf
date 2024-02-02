@@ -6,14 +6,6 @@
 <p align="left"> <a href="https://twitter.com/mario_conf" target="blank"><img src="https://img.shields.io/twitter/follow/mario_conf?logo=twitter&style=for-the-badge" alt="mario_conf" /></a> </p>
 <p>
   Soy una alma apasionada, comprometida y responsable, siempre en la búsqueda de la excelencia y el rendimiento sobresaliente en mi trayectoria profesional. Mi misión es llevar a cabo cada tarea con seriedad, pero también con la energía y el entusiasmo que alimentan mi amor por lo que hago. Me considero una persona que abraza los desafíos con un enfoque fresco y creativo, siempre listo para innovar y encontrar soluciones fuera de lo común.
-
-En el día a día, enfrento cada proyecto como una oportunidad de crecimiento y perfeccionamiento. Mi habilidad para superar obstáculos se convierte en una poderosa fuerza impulsora para liderar con iniciativa y tomar decisiones audaces. Mi polivalencia es como una herramienta multifuncional que me permite adaptarme a cualquier entorno, resolviendo problemas con agilidad y contribuyendo a la eficacia general.
-
-Además de mi destreza técnica, mi capacidad para trabajar en equipo está arraigada en una actitud empática y flexible. Entiendo la importancia de la colaboración armoniosa y cómo la diversidad de habilidades puede enriquecer cualquier proyecto. Mi enfoque proactivo para enfrentar retos, junto con una disposición polivalente, se traduce en una habilidad natural para adaptarme a diversas situaciones laborales y superar obstáculos con ingenio.
-
-No solo busco crecimiento profesional, sino que me entusiasma la idea de contribuir al éxito de proyectos desafiantes. Mi deseo es formar parte de equipos altamente motivados y generar un impacto positivo en cualquier iniciativa que emprenda. Creo firmemente en la construcción de relaciones sólidas y en la consecución de metas compartidas a través de la empatía y la flexibilidad.
-
-Si deseas conocer más acerca de mi vida diaria, así como obtener consejos y trucos divertidos en el mundo tecnológico, te invito a seguirme en Instagram @_mario.conf Este canal no solo es un vistazo a mi día a día, sino también un espacio para explorar mi pasión por la innovación y la creatividad en la tecnología. Únete a esta comunidad digital donde aprender y disfrutar de la tecnología se convierte en una experiencia única y enriquecedora. ¡Te espero con entusiasmo!
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
