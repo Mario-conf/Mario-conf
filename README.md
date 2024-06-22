@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mario-conf" alt="mario-conf" /></a> </p>
 <br><p>
-  Soy una alma apasionada, comprometida y responsable, siempre en la búsqueda de la excelencia y el rendimiento sobresaliente en mi trayectoria profesional. Mi misión es llevar a cabo cada tarea con seriedad, pero también con la energía y el entusiasmo que alimentan mi amor por lo que hago. Me considero una persona que abraza los desafíos con un enfoque fresco y creativo, siempre listo para innovar y encontrar soluciones fuera de lo común.
+  I am a passionate, committed, and responsible individual, always in pursuit of excellence and outstanding performance in my professional journey. My mission is to carry out each task with seriousness, but also with the energy and enthusiasm that fuel my love for what I do. I consider myself someone who embraces challenges with a fresh and creative approach, always ready to innovate and find unconventional solutions.
 </p><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
